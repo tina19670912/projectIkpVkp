@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doc</title>
+    <link rel="stylesheet" href="">
+</head>
+<body>
+   <header> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, itaque!      </header> 
+   <footer></footer>
+   <section></section>
+   <aside></aside>
+    <nav></nav>
+    <div></div>
+   <p> 
+     <span> Lorem, ipsum dolor </span> sit amet consectetur adipisicing elit. Alias ea quisquam perferendis!
+    </p>
+   <h1>Lorem ipsum dolor sit.</h1>
+   <h4>Lorem ipsum dolor sit amet.</h4>
+   <button>scan</button>
+   <img src="" alt="nasvanie">
+   <a href="">link</a>
+</body>
+</html>
